@@ -8,4 +8,3 @@ c1 => pouco commit
 c2 => medio commit
 c3 => alto commit
 c4 => altissimo commit
-161b22
